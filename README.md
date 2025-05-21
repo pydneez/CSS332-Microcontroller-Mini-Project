@@ -57,7 +57,7 @@ This project is designed as a **proof-of-concept for a more accessible version o
 
 ---
 
-## 📦 Libraries Used
+## 📦 Library Used
 
 Make sure to install the following library via Arduino Library Manager:
 
