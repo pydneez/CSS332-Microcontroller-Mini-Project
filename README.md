@@ -66,7 +66,8 @@ Make sure to install the following library via Arduino Library Manager:
 ```cpp
 #include <MPU6500_WE.h>
 #include <Wire.h>
-```
+
+---
 
 ## 📸 Demo & Presentation
 
