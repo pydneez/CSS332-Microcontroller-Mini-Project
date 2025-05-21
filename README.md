@@ -17,9 +17,9 @@ This project is designed as a **proof-of-concept for a more accessible version o
 
 | Component                | Quantity |
 |--------------------------|----------|
-| Arduino Uno/Nano         | 1        | 
-| MPU6500 Gyroscope/Accelerometer | 1  |
-| Tactile Buttons (touch sensors) | 4 |
+| Arduino Uno    | 1        | 
+| MPU6500 | 1  |
+| Tactile Buttons  | 4 |
 | Passive Buzzer           | 1        |
 | LEDs                     | 2        |
 | Breadboard & Jumper Wires| –        |
