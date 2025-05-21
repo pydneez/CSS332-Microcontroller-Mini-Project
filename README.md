@@ -60,7 +60,7 @@ This project is designed as a **proof-of-concept for a more accessible version o
 
 Make sure to install the following library via Arduino Library Manager:
 
-- [`MPU6500_WE`](https://github.com/wollewald/MPU6500_WE) — used to interface with the MPU6500 gyroscope and accelerometer.
+- [`MPU6500_WE`](https://github.com/wollewald/MPU9250_WE) — used to interface with the MPU6500 gyroscope and accelerometer.
 
 ```cpp
 #include <MPU6500_WE.h>
