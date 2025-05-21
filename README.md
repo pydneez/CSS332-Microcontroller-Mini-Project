@@ -2,8 +2,6 @@
 
 > Created by Punyanutch Thongraung & Pasin Chadilalai  
 > For CSS332 Microcontroller Mini Project @SIIT - Thammasat Univeristy Rangsit Campus
-> View our full project presentation and live demo in the video:
-> 🔗 YouTube Link (https://youtu.be/EHfukbABvKY?feature=shared)
 
 
 ## 📖 Overview
@@ -68,3 +66,13 @@ Make sure to install the following library via Arduino Library Manager:
 ```cpp
 #include <MPU6500_WE.h>
 #include <Wire.h>
+
+## 📸 Demo & Presentation
+
+> View our full project presentation and live demo in the video:  
+> 🔗 [Watch on YouTube](https://youtu.be/EHfukbABvKY?feature=shared)
+
+## 📜 License
+
+Open-source for educational and non-commercial use. Please give credit if you build upon it.
+
