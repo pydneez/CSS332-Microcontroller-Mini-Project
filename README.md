@@ -15,15 +15,15 @@ This project is designed as a **proof-of-concept for a more accessible version o
 
 ## 🔧 Components Used
 
-| Component                | Quantity | Description |
-|--------------------------|----------|-------------|
-| Arduino Uno/Nano         | 1        | Main controller board |
-| MPU6500 Gyroscope/Accelerometer | 1  | Detects bowing (Z-axis) and tilt (X-axis) |
-| Tactile Buttons (touch sensors) | 4 | Simulate finger position along string |
-| Passive Buzzer           | 1        | Outputs the sound of selected note |
-| LEDs                     | 2        | Indicate selected string |
-| Breadboard & Jumper Wires| –        | For circuit prototyping |
-| Resistors                | –        | Pull-down resistors for buttons (if needed) |
+| Component                | Quantity |
+|--------------------------|----------|
+| Arduino Uno/Nano         | 1        | 
+| MPU6500 Gyroscope/Accelerometer | 1  |
+| Tactile Buttons (touch sensors) | 4 |
+| Passive Buzzer           | 1        |
+| LEDs                     | 2        |
+| Breadboard & Jumper Wires| –        |
+| Resistors                | –        |
 
 ---
 
