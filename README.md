@@ -3,7 +3,7 @@
 > Created by Punyanutch Thongraung & Pasin Chadilalai  
 > For CSS332 Microcontroller Mini Project @SIIT - Thammasat Univeristy Rangsit Campus
 > View our full project presentation and live demo in the video:
-🔗 YouTube Link (https://youtu.be/EHfukbABvKY?feature=shared)
+> 🔗 YouTube Link (https://youtu.be/EHfukbABvKY?feature=shared)
 
 ## 📖 Overview
 
